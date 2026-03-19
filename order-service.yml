@@ -19,5 +19,5 @@ logging:
 
 # cloud config 테스트용 설정 값
 custom:
-    message: "This is Test Message"
+    message: "This is newTest Message"
     version: "1.0.0"
