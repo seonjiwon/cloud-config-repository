@@ -19,5 +19,5 @@ logging:
 
 # cloud config 테스트용 설정 값
 custom:
-    message: "테스트메시지입니다."
-    version: "3.0.0"
+    message: "테스트메시지입니다444."
+    version: "4.0.0"
